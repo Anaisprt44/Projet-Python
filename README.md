@@ -1,4 +1,4 @@
-<strong>Projet-Python - Gestion des utilisateurs</strong>
+<strong> Projet-Python - Gestion des utilisateurs </strong>
 
 Nous devions par groupe de 2 réaliser ce projet avec le langage Python. 
 
